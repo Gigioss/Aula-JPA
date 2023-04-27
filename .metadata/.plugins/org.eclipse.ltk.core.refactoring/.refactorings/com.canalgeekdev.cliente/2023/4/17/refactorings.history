@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;com.canalgeekdev.cliente/src/main/resources/META-INFO&apos; to &apos;META-INF&apos;" description="Rename resource &apos;META-INFO&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/META-INFO" name="META-INF" stamp="1682540672896" updateReferences="true"/>
+</session>

@@ -1,0 +1,5 @@
+package com.canalgeekdev.cliente.model;
+
+public class Cliente {
+
+}
